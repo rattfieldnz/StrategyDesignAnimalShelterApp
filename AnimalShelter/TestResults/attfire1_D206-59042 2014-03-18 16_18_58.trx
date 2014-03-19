@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="6c123368-bec9-4a3a-a33d-308e5e605ae0" name="attfire1@D206-59042 2014-03-18 16:18:58" runUser="OPNET\attfire1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e3acc9a9-4bfa-4d94-bdcc-8210e80f94d9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="attfire1_D206-59042 2014-03-18 16_18_58">
+      <DeploymentItem filename="C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelter\bin\Debug\AnimalShelter.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-03-18T16:18:58.3092992+13:00" queuing="2014-03-18T16:18:58.3342992+13:00" start="2014-03-18T16:18:58.3372992+13:00" finish="2014-03-18T16:18:58.4922992+13:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="getImageTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="df4fccc3-25a7-7f7d-6aca-195b05eafe59">
+      <Execution id="b72f9811-c89f-40ae-b52b-ccb069a1d80e" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.IAnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getImageTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="df4fccc3-25a7-7f7d-6aca-195b05eafe59" executionId="b72f9811-c89f-40ae-b52b-ccb069a1d80e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b72f9811-c89f-40ae-b52b-ccb069a1d80e" testId="df4fccc3-25a7-7f7d-6aca-195b05eafe59" testName="getImageTest" computerName="D206-59042" duration="00:00:00.0244139" startTime="2014-03-18T16:18:58.3392992+13:00" endTime="2014-03-18T16:18:58.4842992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b72f9811-c89f-40ae-b52b-ccb069a1d80e">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method AnimalShelterUnitTests.IAnimalTest.getImageTest threw exception: 
+System.ArgumentException: Parameter is not valid.</Message>
+          <StackTrace>    at System.Drawing.Bitmap..ctor(String filename)
+   at AnimalShelter.Animal.getImage() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelter\Animal.cs:line 61
+   at AnimalShelterUnitTests.IAnimalTest.getImageTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\IAnimalTest.cs:line 87
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

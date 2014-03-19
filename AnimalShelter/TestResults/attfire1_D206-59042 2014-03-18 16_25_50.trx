@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0cef2128-7965-49a7-bce2-96b738fca9dd" name="attfire1@D206-59042 2014-03-18 16:25:50" runUser="OPNET\attfire1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e3acc9a9-4bfa-4d94-bdcc-8210e80f94d9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="attfire1_D206-59042 2014-03-18 16_25_50">
+      <DeploymentItem filename="C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelter\bin\Debug\AnimalShelter.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-03-18T16:25:50.5102992+13:00" queuing="2014-03-18T16:25:50.5392992+13:00" start="2014-03-18T16:25:50.5432992+13:00" finish="2014-03-18T16:25:50.6842992+13:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="getTypeTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="090bad08-7393-4c9b-4aca-2106ff9c5132">
+      <Execution id="efed3b37-33d8-4883-a74e-6978901aa544" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.IAnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getTypeTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="090bad08-7393-4c9b-4aca-2106ff9c5132" executionId="efed3b37-33d8-4883-a74e-6978901aa544" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="efed3b37-33d8-4883-a74e-6978901aa544" testId="090bad08-7393-4c9b-4aca-2106ff9c5132" testName="getTypeTest" computerName="D206-59042" duration="00:00:00.0113131" startTime="2014-03-18T16:25:50.5452992+13:00" endTime="2014-03-18T16:25:50.6742992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="efed3b37-33d8-4883-a74e-6978901aa544">
+    </UnitTestResult>
+  </Results>
+</TestRun>

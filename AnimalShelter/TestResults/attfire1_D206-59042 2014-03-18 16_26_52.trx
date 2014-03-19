@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9ead824d-c82f-49a2-be57-99dfe95804ae" name="attfire1@D206-59042 2014-03-18 16:26:52" runUser="OPNET\attfire1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e3acc9a9-4bfa-4d94-bdcc-8210e80f94d9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="attfire1_D206-59042 2014-03-18 16_26_52">
+      <DeploymentItem filename="C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelter\bin\Debug\AnimalShelter.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-03-18T16:26:52.4512992+13:00" queuing="2014-03-18T16:26:52.4942992+13:00" start="2014-03-18T16:26:52.4992992+13:00" finish="2014-03-18T16:26:52.7122992+13:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="17" executed="17" passed="5" error="0" failed="7" timeout="0" aborted="0" inconclusive="5" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AnimalManagerConstructorTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="e7db2c4d-c850-be5c-8428-2489c2644c10">
+      <Execution id="ae07364b-8392-42fe-8e91-ed42efa51f27" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalManagerTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AnimalManagerConstructorTest" />
+    </UnitTest>
+    <UnitTest name="getImageTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="df4fccc3-25a7-7f7d-6aca-195b05eafe59">
+      <Execution id="d037f06f-69c7-428f-abb8-dc33c675840c" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.IAnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getImageTest" />
+    </UnitTest>
+    <UnitTest name="TestMethod1" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="3b63acec-38e3-5140-0bd4-d8c046a0557d">
+      <Execution id="0e8218ef-d1ff-4799-bcc5-7c3653efe31f" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.UnitTest1, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+    <UnitTest name="getSpeciesTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="2e220e05-5412-180b-18cc-98efdf0dc173">
+      <Execution id="1bf7b97f-82ae-4fc0-ac20-468ec2062211" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getSpeciesTest" />
+    </UnitTest>
+    <UnitTest name="getImageTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="d15e8860-7273-0d75-2441-155a15b11508">
+      <Execution id="089fc6c0-b947-49d5-aef3-4ead005805a7" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getImageTest" />
+    </UnitTest>
+    <UnitTest name="AnimalTypesConstructorTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="b2983014-9b4e-9984-9c3d-947234e1d62a">
+      <Execution id="63d38ead-d5c7-4744-acfb-8c82c040f3a6" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalTypesTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AnimalTypesConstructorTest" />
+    </UnitTest>
+    <UnitTest name="getTypeTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="090bad08-7393-4c9b-4aca-2106ff9c5132">
+      <Execution id="76ad2bda-45a7-47bd-a43f-d768675aa473" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.IAnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getTypeTest" />
+    </UnitTest>
+    <UnitTest name="addAnimalsToLBandImagesTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="ca05dffa-1cc0-837e-5d34-51997f933da7">
+      <Execution id="2f13a8e5-3fc4-44a7-ba94-9dd193eb06eb" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalManagerTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="addAnimalsToLBandImagesTest" />
+    </UnitTest>
+    <UnitTest name="AnimalConstructorTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="c5f7635f-1283-faf9-057a-e86c0cf15a99">
+      <Execution id="3a8f5fa8-3b35-4248-9b86-5ecb2a69bd34" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AnimalConstructorTest" />
+    </UnitTest>
+    <UnitTest name="getAnimalsListTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="81abf30f-7e44-3fcd-7cc0-6f27d1eb2fd4">
+      <Execution id="299cb09e-fc6c-427d-b090-0e33988551ba" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalManagerTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getAnimalsListTest" />
+    </UnitTest>
+    <UnitTest name="AnimalToStringTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="d64675ec-1770-ba57-0fa1-a25b3ad5ff0e">
+      <Execution id="f229cda6-2e4c-4b6d-b72c-84daf5ee2196" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.IAnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AnimalToStringTest" />
+    </UnitTest>
+    <UnitTest name="loadCritterListTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="897c83ff-68d3-8f43-e4d6-8e76bc9eff40">
+      <Execution id="a9b44bf6-134b-471e-afa0-f9193adeb1c2" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalManagerTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="loadCritterListTest" />
+    </UnitTest>
+    <UnitTest name="getSpeciesTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="1064f5d1-09d8-e477-0210-996b2a22c481">
+      <Execution id="c7ec8687-9942-41ac-a889-1b1a317eac56" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.IAnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getSpeciesTest" />
+    </UnitTest>
+    <UnitTest name="ToStringTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="bced7900-0ffa-dd39-6f3b-50bb06d566a4">
+      <Execution id="7fc6de25-cb29-466f-923d-79dafc65eecf" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ToStringTest" />
+    </UnitTest>
+    <UnitTest name="getNameTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="522adc17-4d57-9474-d915-fbacc395e5f9">
+      <Execution id="c098c41b-4bc8-4b42-8a8c-7f0a9cf22341" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getNameTest" />
+    </UnitTest>
+    <UnitTest name="getTypeTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="277416a0-fa39-7ca0-54f3-007102807720">
+      <Execution id="3bb225dc-f163-4cf2-b7a7-973ddfe1a319" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.AnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getTypeTest" />
+    </UnitTest>
+    <UnitTest name="getNameTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="c5b7a3c0-1842-d6d2-d222-8e1427c26c49">
+      <Execution id="075f80da-0839-4e09-91d1-88bf536c86d3" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.IAnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="getNameTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="090bad08-7393-4c9b-4aca-2106ff9c5132" executionId="76ad2bda-45a7-47bd-a43f-d768675aa473" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1064f5d1-09d8-e477-0210-996b2a22c481" executionId="c7ec8687-9942-41ac-a889-1b1a317eac56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="277416a0-fa39-7ca0-54f3-007102807720" executionId="3bb225dc-f163-4cf2-b7a7-973ddfe1a319" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2e220e05-5412-180b-18cc-98efdf0dc173" executionId="1bf7b97f-82ae-4fc0-ac20-468ec2062211" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3b63acec-38e3-5140-0bd4-d8c046a0557d" executionId="0e8218ef-d1ff-4799-bcc5-7c3653efe31f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="522adc17-4d57-9474-d915-fbacc395e5f9" executionId="c098c41b-4bc8-4b42-8a8c-7f0a9cf22341" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="81abf30f-7e44-3fcd-7cc0-6f27d1eb2fd4" executionId="299cb09e-fc6c-427d-b090-0e33988551ba" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="897c83ff-68d3-8f43-e4d6-8e76bc9eff40" executionId="a9b44bf6-134b-471e-afa0-f9193adeb1c2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2983014-9b4e-9984-9c3d-947234e1d62a" executionId="63d38ead-d5c7-4744-acfb-8c82c040f3a6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bced7900-0ffa-dd39-6f3b-50bb06d566a4" executionId="7fc6de25-cb29-466f-923d-79dafc65eecf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c5b7a3c0-1842-d6d2-d222-8e1427c26c49" executionId="075f80da-0839-4e09-91d1-88bf536c86d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c5f7635f-1283-faf9-057a-e86c0cf15a99" executionId="3a8f5fa8-3b35-4248-9b86-5ecb2a69bd34" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ca05dffa-1cc0-837e-5d34-51997f933da7" executionId="2f13a8e5-3fc4-44a7-ba94-9dd193eb06eb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d15e8860-7273-0d75-2441-155a15b11508" executionId="089fc6c0-b947-49d5-aef3-4ead005805a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d64675ec-1770-ba57-0fa1-a25b3ad5ff0e" executionId="f229cda6-2e4c-4b6d-b72c-84daf5ee2196" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="df4fccc3-25a7-7f7d-6aca-195b05eafe59" executionId="d037f06f-69c7-428f-abb8-dc33c675840c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e7db2c4d-c850-be5c-8428-2489c2644c10" executionId="ae07364b-8392-42fe-8e91-ed42efa51f27" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="76ad2bda-45a7-47bd-a43f-d768675aa473" testId="090bad08-7393-4c9b-4aca-2106ff9c5132" testName="getTypeTest" computerName="D206-59042" duration="00:00:00.0122034" startTime="2014-03-18T16:26:52.5012992+13:00" endTime="2014-03-18T16:26:52.6322992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="76ad2bda-45a7-47bd-a43f-d768675aa473">
+    </UnitTestResult>
+    <UnitTestResult executionId="c7ec8687-9942-41ac-a889-1b1a317eac56" testId="1064f5d1-09d8-e477-0210-996b2a22c481" testName="getSpeciesTest" computerName="D206-59042" duration="00:00:00.0003059" startTime="2014-03-18T16:26:52.6332992+13:00" endTime="2014-03-18T16:26:52.6352992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c7ec8687-9942-41ac-a889-1b1a317eac56">
+    </UnitTestResult>
+    <UnitTestResult executionId="3bb225dc-f163-4cf2-b7a7-973ddfe1a319" testId="277416a0-fa39-7ca0-54f3-007102807720" testName="getTypeTest" computerName="D206-59042" duration="00:00:00.0039242" startTime="2014-03-18T16:26:52.6362992+13:00" endTime="2014-03-18T16:26:52.6422992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3bb225dc-f163-4cf2-b7a7-973ddfe1a319">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at AnimalShelterUnitTests.AnimalTest.getTypeTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalTest.cs:line 157
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="1bf7b97f-82ae-4fc0-ac20-468ec2062211" testId="2e220e05-5412-180b-18cc-98efdf0dc173" testName="getSpeciesTest" computerName="D206-59042" duration="00:00:00.0057269" startTime="2014-03-18T16:26:52.6432992+13:00" endTime="2014-03-18T16:26:52.6502992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1bf7b97f-82ae-4fc0-ac20-468ec2062211">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;&gt;. Actual:&lt;Cat&gt;. </Message>
+          <StackTrace>   at AnimalShelterUnitTests.AnimalTest.getSpeciesTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalTest.cs:line 140
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="0e8218ef-d1ff-4799-bcc5-7c3653efe31f" testId="3b63acec-38e3-5140-0bd4-d8c046a0557d" testName="TestMethod1" computerName="D206-59042" duration="00:00:00.0001587" startTime="2014-03-18T16:26:52.6512992+13:00" endTime="2014-03-18T16:26:52.6532992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0e8218ef-d1ff-4799-bcc5-7c3653efe31f">
+    </UnitTestResult>
+    <UnitTestResult executionId="c098c41b-4bc8-4b42-8a8c-7f0a9cf22341" testId="522adc17-4d57-9474-d915-fbacc395e5f9" testName="getNameTest" computerName="D206-59042" duration="00:00:00.0006180" startTime="2014-03-18T16:26:52.6542992+13:00" endTime="2014-03-18T16:26:52.6562992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c098c41b-4bc8-4b42-8a8c-7f0a9cf22341">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at AnimalShelterUnitTests.AnimalTest.getNameTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalTest.cs:line 125
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="299cb09e-fc6c-427d-b090-0e33988551ba" testId="81abf30f-7e44-3fcd-7cc0-6f27d1eb2fd4" testName="getAnimalsListTest" computerName="D206-59042" duration="00:00:00.0037491" startTime="2014-03-18T16:26:52.6572992+13:00" endTime="2014-03-18T16:26:52.6622992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="299cb09e-fc6c-427d-b090-0e33988551ba">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;(null)&gt;. Actual:&lt;System.Collections.Generic.List`1[AnimalShelter.IAnimal]&gt;. </Message>
+          <StackTrace>   at AnimalShelterUnitTests.AnimalManagerTest.getAnimalsListTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalManagerTest.cs:line 109
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="a9b44bf6-134b-471e-afa0-f9193adeb1c2" testId="897c83ff-68d3-8f43-e4d6-8e76bc9eff40" testName="loadCritterListTest" computerName="D206-59042" duration="00:00:00.0044114" startTime="2014-03-18T16:26:52.6642992+13:00" endTime="2014-03-18T16:26:52.6702992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a9b44bf6-134b-471e-afa0-f9193adeb1c2">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method AnimalShelterUnitTests.AnimalManagerTest.loadCritterListTest threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at AnimalShelter.AnimalManager.loadCritterList() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelter\AnimalManager.cs:line 44
+   at AnimalShelterUnitTests.AnimalManagerTest.loadCritterListTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalManagerTest.cs:line 122
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="63d38ead-d5c7-4744-acfb-8c82c040f3a6" testId="b2983014-9b4e-9984-9c3d-947234e1d62a" testName="AnimalTypesConstructorTest" computerName="D206-59042" duration="00:00:00.0007257" startTime="2014-03-18T16:26:52.6712992+13:00" endTime="2014-03-18T16:26:52.6732992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="63d38ead-d5c7-4744-acfb-8c82c040f3a6">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at AnimalShelterUnitTests.AnimalTypesTest.AnimalTypesConstructorTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalTypesTest.cs:line 74
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="7fc6de25-cb29-466f-923d-79dafc65eecf" testId="bced7900-0ffa-dd39-6f3b-50bb06d566a4" testName="ToStringTest" computerName="D206-59042" duration="00:00:00.0015387" startTime="2014-03-18T16:26:52.6742992+13:00" endTime="2014-03-18T16:26:52.6772992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7fc6de25-cb29-466f-923d-79dafc65eecf">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;&gt;. Actual:&lt;: Cat&gt;. </Message>
+          <StackTrace>   at AnimalShelterUnitTests.AnimalTest.ToStringTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalTest.cs:line 92
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="075f80da-0839-4e09-91d1-88bf536c86d3" testId="c5b7a3c0-1842-d6d2-d222-8e1427c26c49" testName="getNameTest" computerName="D206-59042" duration="00:00:00.0001770" startTime="2014-03-18T16:26:52.6782992+13:00" endTime="2014-03-18T16:26:52.6792992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="075f80da-0839-4e09-91d1-88bf536c86d3">
+    </UnitTestResult>
+    <UnitTestResult executionId="3a8f5fa8-3b35-4248-9b86-5ecb2a69bd34" testId="c5f7635f-1283-faf9-057a-e86c0cf15a99" testName="AnimalConstructorTest" computerName="D206-59042" duration="00:00:00.0005365" startTime="2014-03-18T16:26:52.6802992+13:00" endTime="2014-03-18T16:26:52.6822992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3a8f5fa8-3b35-4248-9b86-5ecb2a69bd34">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at AnimalShelterUnitTests.AnimalTest.AnimalConstructorTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalTest.cs:line 77
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2f13a8e5-3fc4-44a7-ba94-9dd193eb06eb" testId="ca05dffa-1cc0-837e-5d34-51997f933da7" testName="addAnimalsToLBandImagesTest" computerName="D206-59042" duration="00:00:00.0022238" startTime="2014-03-18T16:26:52.6832992+13:00" endTime="2014-03-18T16:26:52.6862992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f13a8e5-3fc4-44a7-ba94-9dd193eb06eb">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method AnimalShelterUnitTests.AnimalManagerTest.addAnimalsToLBandImagesTest threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at AnimalShelter.AnimalManager.addAnimalsToLBandImages(List`1 animals, animalTypes type, PictureBox[] pictureBoxes) in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelter\AnimalManager.cs:line 109
+   at AnimalShelterUnitTests.AnimalManagerTest.addAnimalsToLBandImagesTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalManagerTest.cs:line 93
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="089fc6c0-b947-49d5-aef3-4ead005805a7" testId="d15e8860-7273-0d75-2441-155a15b11508" testName="getImageTest" computerName="D206-59042" duration="00:00:00.0017411" startTime="2014-03-18T16:26:52.6882992+13:00" endTime="2014-03-18T16:26:52.6912992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="089fc6c0-b947-49d5-aef3-4ead005805a7">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method AnimalShelterUnitTests.AnimalTest.getImageTest threw exception: 
+System.ArgumentException: Parameter is not valid.</Message>
+          <StackTrace>    at System.Drawing.Bitmap..ctor(String filename)
+   at AnimalShelter.Animal.getImage() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelter\Animal.cs:line 61
+   at AnimalShelterUnitTests.AnimalTest.getImageTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalTest.cs:line 107
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f229cda6-2e4c-4b6d-b72c-84daf5ee2196" testId="d64675ec-1770-ba57-0fa1-a25b3ad5ff0e" testName="AnimalToStringTest" computerName="D206-59042" duration="00:00:00.0001805" startTime="2014-03-18T16:26:52.6922992+13:00" endTime="2014-03-18T16:26:52.6942992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f229cda6-2e4c-4b6d-b72c-84daf5ee2196">
+    </UnitTestResult>
+    <UnitTestResult executionId="d037f06f-69c7-428f-abb8-dc33c675840c" testId="df4fccc3-25a7-7f7d-6aca-195b05eafe59" testName="getImageTest" computerName="D206-59042" duration="00:00:00.0014646" startTime="2014-03-18T16:26:52.6952992+13:00" endTime="2014-03-18T16:26:52.6982992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d037f06f-69c7-428f-abb8-dc33c675840c">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method AnimalShelterUnitTests.IAnimalTest.getImageTest threw exception: 
+System.ArgumentException: Parameter is not valid.</Message>
+          <StackTrace>    at System.Drawing.Bitmap..ctor(String filename)
+   at AnimalShelter.Animal.getImage() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelter\Animal.cs:line 61
+   at AnimalShelterUnitTests.IAnimalTest.getImageTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\IAnimalTest.cs:line 86
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ae07364b-8392-42fe-8e91-ed42efa51f27" testId="e7db2c4d-c850-be5c-8428-2489c2644c10" testName="AnimalManagerConstructorTest" computerName="D206-59042" duration="00:00:00.0005198" startTime="2014-03-18T16:26:52.6982992+13:00" endTime="2014-03-18T16:26:52.7002992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ae07364b-8392-42fe-8e91-ed42efa51f27">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. TODO: Implement code to verify target</Message>
+          <StackTrace>   at AnimalShelterUnitTests.AnimalManagerTest.AnimalManagerConstructorTest() in C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\AnimalManagerTest.cs:line 78
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

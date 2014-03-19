@@ -1,0 +1,7 @@
+C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\obj\Debug\AnimalShelterUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\bin\Debug\AnimalShelterUnitTests.dll
+C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\bin\Debug\AnimalShelterUnitTests.pdb
+C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\bin\Debug\AnimalShelter.exe
+C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\bin\Debug\AnimalShelter.pdb
+C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\obj\Debug\AnimalShelterUnitTests.dll
+C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelterUnitTests\obj\Debug\AnimalShelterUnitTests.pdb

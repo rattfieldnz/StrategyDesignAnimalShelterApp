@@ -1,0 +1,14 @@
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\Animal Shelter App\AnimalShelterUnitTests\bin\Release\AnimalShelterUnitTests.dll
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\Animal Shelter App\AnimalShelterUnitTests\bin\Release\AnimalShelterUnitTests.pdb
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\Animal Shelter App\AnimalShelterUnitTests\bin\Release\AnimalShelter.exe
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\Animal Shelter App\AnimalShelterUnitTests\bin\Release\AnimalShelter.pdb
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\Animal Shelter App\AnimalShelterUnitTests\obj\Release\AnimalShelterUnitTests.csprojResolveAssemblyReference.cache
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\Animal Shelter App\AnimalShelterUnitTests\obj\Release\AnimalShelterUnitTests.dll
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\Animal Shelter App\AnimalShelterUnitTests\obj\Release\AnimalShelterUnitTests.pdb
+C:\Users\robattfield\Desktop\Animal Shelter App\AnimalShelterUnitTests\bin\Release\AnimalShelterUnitTests.dll
+C:\Users\robattfield\Desktop\Animal Shelter App\AnimalShelterUnitTests\bin\Release\AnimalShelterUnitTests.pdb
+C:\Users\robattfield\Desktop\Animal Shelter App\AnimalShelterUnitTests\bin\Release\AnimalShelter.exe
+C:\Users\robattfield\Desktop\Animal Shelter App\AnimalShelterUnitTests\bin\Release\AnimalShelter.pdb
+C:\Users\robattfield\Desktop\Animal Shelter App\AnimalShelterUnitTests\obj\Release\AnimalShelterUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\robattfield\Desktop\Animal Shelter App\AnimalShelterUnitTests\obj\Release\AnimalShelterUnitTests.dll
+C:\Users\robattfield\Desktop\Animal Shelter App\AnimalShelterUnitTests\obj\Release\AnimalShelterUnitTests.pdb

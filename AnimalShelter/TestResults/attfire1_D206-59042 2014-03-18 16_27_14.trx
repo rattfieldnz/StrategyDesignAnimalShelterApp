@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="25fa514d-731b-489d-b3d7-d68cabd9e164" name="attfire1@D206-59042 2014-03-18 16:27:14" runUser="OPNET\attfire1" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="e3acc9a9-4bfa-4d94-bdcc-8210e80f94d9">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="attfire1_D206-59042 2014-03-18 16_27_14">
+      <DeploymentItem filename="C:\Users\attfire1\Desktop\Animal Shelter App\AnimalShelter\bin\Debug\AnimalShelter.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2014-03-18T16:27:14.0282992+13:00" queuing="2014-03-18T16:27:14.0652992+13:00" start="2014-03-18T16:27:14.0682992+13:00" finish="2014-03-18T16:27:14.2122992+13:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="AnimalToStringTest" storage="c:\users\attfire1\desktop\animal shelter app\animalshelterunittests\bin\debug\animalshelterunittests.dll" id="d64675ec-1770-ba57-0fa1-a25b3ad5ff0e">
+      <Execution id="8ea782a4-38c0-49b5-8298-5e89fbf4325b" />
+      <TestMethod codeBase="C:/Users/attfire1/Desktop/Animal Shelter App/AnimalShelterUnitTests/bin/Debug/AnimalShelterUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="AnimalShelterUnitTests.IAnimalTest, AnimalShelterUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AnimalToStringTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="d64675ec-1770-ba57-0fa1-a25b3ad5ff0e" executionId="8ea782a4-38c0-49b5-8298-5e89fbf4325b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8ea782a4-38c0-49b5-8298-5e89fbf4325b" testId="d64675ec-1770-ba57-0fa1-a25b3ad5ff0e" testName="AnimalToStringTest" computerName="D206-59042" duration="00:00:00.0110860" startTime="2014-03-18T16:27:14.0702992+13:00" endTime="2014-03-18T16:27:14.2032992+13:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ea782a4-38c0-49b5-8298-5e89fbf4325b">
+    </UnitTestResult>
+  </Results>
+</TestRun>
